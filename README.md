@@ -4,8 +4,8 @@ A production‑ready AI system that extracts structured data from marksheets (im
 
 🔗 Links
 
-GitHub Repository: https://github.com/neel-ofar/marksheet-extractor.git
-Deployed API (Render): https://marksheet-extractor-ciik.onrender.com
+GitHub Repository: https://github.com/AshishLahire/Json-Extractor.git
+Deployed API (Render): https://json-extractor.onrender.com/docs#/default/extract_extract_post
 
 ✨ What this project does
 
